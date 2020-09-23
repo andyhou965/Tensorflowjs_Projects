@@ -6,3 +6,5 @@ Links to my articles explaining these projects:
 * [Custom Real-Time Image Classifier Using Transfer Learning](https://heartbeat.fritz.ai/deep-learning-in-javascript-part-4-294c53cbe28)
 * [Constructing a 3D Face Mesh from Face Landmarks in Real-Time with TensorFlow.js and Plot.js](https://heartbeat.fritz.ai/constructing-a-3d-face-mesh-from-face-landmarks-in-real-time-with-tensorflow-js-and-plot-js-62b177abcf9f)
 * [Build, Train, and Deploy a Book Recommender System Using Keras, TensorFlow.js, Node.js, and Firebase](https://heartbeat.fritz.ai/build-train-and-deploy-a-book-recommender-system-using-keras-tensorflow-js-b96944b936a7)
+
+[![Run on Repl.it](https://repl.it/badge/github/risenW/Tensorflowjs_Projects)](https://repl.it/github/risenW/Tensorflowjs_Projects)
